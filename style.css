@@ -1,0 +1,35 @@
+body{
+    background-image: url(assets/images/matrix.jpg);
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg{
+    background-image: url(assets/images/matrix.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+  }
+
+
+  .motivation-img {
+    
+    background-repeat: no-repeat;
+    width: 130%;
+  }
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  #font{
+    font-family: 'Roboto', sans-serif;
+  }
